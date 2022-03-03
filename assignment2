@@ -1,0 +1,5 @@
+#program to merge two tuples.
+t1=("chintu","bobby","pithi")
+t2=("yashi","nandu","bhargavi")
+t3=t1+t2
+print(t3)
